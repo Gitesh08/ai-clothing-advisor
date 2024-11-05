@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "AI Clothing Advisor",
+    "version": "1.0",
+    "description": "Get AI-powered clothing recommendations",
+    "permissions": ["sidePanel"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "side_panel": {
+        "default_path": "sidepanel/panel.html"
+    },
+    "action": {
+        "default_title": "AI Clothing Advisor"
+    }
+}
