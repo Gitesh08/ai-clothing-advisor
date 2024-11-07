@@ -51,7 +51,7 @@ Make sure you’re fully set up with Chrome’s AI capabilities by reviewing our
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/your-username/ai-clothing-advisor.git
+   git clone https://github.com/Gitesh08/ai-clothing-advisor.git
    cd ai-clothing-advisor
    ```
 
