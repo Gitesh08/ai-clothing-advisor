@@ -2,7 +2,21 @@
 # **Clothing Advisor** 🕶️  
 **Your Fashionable AI Companion!**
 
-> A Chrome extension powered by Google Nano Model's AI, bringing you curated, weather- and occasion-specific outfit ideas. Your go-to stylist for any event or season! ☁️👔
+> **A Chrome extension powered by Google Nano Model's AI, bringing you curated, weather- and occasion-specific outfit ideas. Your go-to stylist for any event or season! ☁️👔**
+
+
+![Screenshot (1083)](https://github.com/user-attachments/assets/b9f079b5-0a22-40ee-b4f4-8436ffbab200)
+
+---------------------
+
+📝 Read the [full blog post](https://medium.com/google-cloud/getting-started-with-chromes-built-in-ai-from-setup-to-smart-clothing-advisor-f11760172139) for an in-depth look at the technology behind Clothing Advisor, including setup tips and advanced customization.
+
+---------------------
+### ⚙️ **👨‍💻User vs Backend ☸️**
+
+![user vs backend](https://github.com/user-attachments/assets/dd49e661-3e1b-478d-9353-726109063032)
+
+Visual representation of the Clothing Advisor architecture, illustrating user interactions with backend services for personalized AI-driven styling.
 
 ---
 
@@ -15,17 +29,11 @@ Get suggestions tailored to current weather so you're prepared for:
 - **Cloudy Moods**  
 - **Snowy Moments**
 
----
-
 #### 🎩 **Occasion-Specific Looks**  
 Find the right outfit no matter the occasion, from **Casual Fridays** to **Business Meetings** or **Formal Events**!
 
----
-
 #### 🌈 **Personalized Style Touches**  
 Add a splash of **Color** 🎨 or pick a comfy **Fabric** 🧵 to refine your style.
-
----
 
 #### 🔧 **Smart AI Settings**  
 Personalize your results with:
